@@ -1,0 +1,4 @@
+In the Bernoulli Distribution section - Question # 4 - is finding the probability P(X = 3500) same as finding the pmf in this particular example? 
+In normal distribution section - Question # 4 - I am getting an error when I am executing the cell. Not sure why? ( ln[62]) Error is "Dict object not callable"
+In Poisson Distribution section - I am not quite sure how to approach Question # 2.
+
